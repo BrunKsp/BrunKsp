@@ -1,4 +1,6 @@
 ### Ola me chamo Bruno 🙋‍♂️
+Sou desenvolvedor Back-End e estudante de Sitemas De informação 
+Atualmente me aventurando no desenvolvimento de Aplicações para a ABO (Associação Brasileira de Ontopsicologia)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunok-siqueirap/)
 
