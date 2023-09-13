@@ -6,7 +6,7 @@ Atualmente me aventurando no desenvolvimento de Aplicações para a ABO (Associa
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunok.siq/)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunKsp&show_icons=true&theme=gradient)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunKsp&show_icons=true&theme=dracula)
 
 ### Tecnologias utilizadas.
 <div style ="display: inline_block"><br/>
