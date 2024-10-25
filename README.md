@@ -21,6 +21,6 @@ Atualmente me aventurando no desenvolvimento de Aplicações para a ABO (Associa
 
 <div align="center">
   
-[![Spotify](spotify-brunoksp.vercel.app/api/spotify](https://open.spotfy.com/user/Bruno)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=u6fpirojbqus25feuz5ziqlah&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   
 </div
