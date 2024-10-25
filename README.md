@@ -15,4 +15,7 @@ Atualmente me aventurando no desenvolvimento de Aplicações para a ABO (Associa
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Phyton">
   <img src=  "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  </div>
+</div>
+
+
+[![Spotify](spotify-brunoksp.vercel.app/api/spotify](https://open.spotfy.com/user/u6fpirojbqus25feuz5ziqlah)
