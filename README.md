@@ -7,20 +7,14 @@
 
 <br>
 
-
-
 <h2><i>🍃👉 "𝐒𝐞 𝐞𝐮 𝐧ã𝐨 𝐜𝐨𝐫𝐫𝐞𝐫 𝐚𝐭𝐫á𝐬 𝐝𝐨 𝐦𝐞𝐮 𝐧ã𝐨 𝐯𝐚𝐢 𝐭𝐞𝐫 𝐪𝐮𝐞𝐦 𝐜𝐨𝐫𝐫𝐞 𝐩𝐫𝐚 𝐦𝐢𝐦" 👈 🍃</i></h2> 
 <h3>PumaPjl</h3>  
 
-
-
-
+<br>
 
 ## Fale comigo 📩
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunok-siqueirap/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunok.siq/) [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/brunosiqueira)
-
-
-
+<br>
   
 ## Tecnologias Utilizadas 👨🏽‍💻
 <table style="border-collapse: collapse; width: 100%;">
@@ -51,8 +45,9 @@
         </td>
     </tr>
 </table>
-
 </div>
+<br>
+
 
 ## 🎵 Tocando na JukeBox  📻
 
