@@ -1,6 +1,6 @@
 ### Ola me chamo Bruno 🙋‍♂️
-<div align="center">Sou desenvolvedor Back-End e estudante de Sitemas De informação<br/>
-Atualmente me aventurando no desenvolvimento de Aplicações para a ABO (Associação Brasileira de Ontopsicologia)</div>
+<div align="center"><h2>Sou desenvolvedor Back-End e estudante de Sitemas De informação<br/>
+Atualmente me aventurando no desenvolvimento de Aplicações para a ABO (Associação Brasileira de Ontopsicologia)</h2></div>
 <br>
 
 <div align="center">
