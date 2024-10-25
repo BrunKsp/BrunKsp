@@ -17,5 +17,10 @@ Atualmente me aventurando no desenvolvimento de Aplicações para a ABO (Associa
   <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 
+## 🎵 O que estou ouvindo
 
-[![Spotify](spotify-brunoksp.vercel.app/api/spotify](https://open.spotfy.com/user/u6fpirojbqus25feuz5ziqlah)
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22yto5okklnppeemvoynw5wjy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22yto5okklnppeemvoynw5wjy&redirect=true)
+  
+</div
