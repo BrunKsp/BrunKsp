@@ -17,7 +17,7 @@ Atualmente me aventurando no desenvolvimento de Aplicações para a ABO (Associa
   <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 
-## 🎵 O que estou ouvindo
+## 🎵 Tocando na JukeBox  📻
 
 <div align="center">
   
