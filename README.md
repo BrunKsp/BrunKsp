@@ -2,7 +2,7 @@
   <h1>Olá, me chamo Bruno 🙋🏽‍♂️</h1> 
   <h2 style="background-color: red; padding: 10px; color: white;">
     Sou desenvolvedor Back-End e estudante de Sistemas de Informação<br/>
-    Atualmente me aventurando no desenvolvimento de Aplicações para a ABO (Associação Brasileira de Ontopsicologia)
+    Atualmente me aventurando no desenvolvimento de Aplicações de forma Autônoma
   </h2>
 
 <br>
